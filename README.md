@@ -1,3 +1,2 @@
 # pruebaentornos
 Prueba para clase de Entornos de Desarrollo.
-A ver si con este otro programa funciona...
